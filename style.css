@@ -110,6 +110,11 @@ body
     color: #fff;
     font-weight: 300;    
 }
+.contactInfo ul li a
+{
+    color: #fff;
+    font-weight: 300;    
+}
 .contactInfo li 
 {
     margin-bottom: 15px;
